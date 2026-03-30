@@ -1,0 +1,20 @@
+name: google-cloud
+version: 1.0.0
+tested: false
+updated_at: "2026-02-19"
+short-title: Google Cloud
+description: >-
+  Squad especialista em Google Cloud Platform (GCP) para operações práticas e resolução de problemas.
+author: AIOS Team
+entry_agent: gcp-chief
+slashPrefix: gcp
+
+settings:
+  activation:
+    show_ecosystem_report: false
+    show_greeting: true
+    show_quick_commands: true
+
+metadata:
+  version: "1.0.0"
+  score: 8.0
